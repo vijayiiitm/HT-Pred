@@ -1,6 +1,6 @@
 # HT_PRED: Hardware Trojan Detection Framework
 
-Official Research Page for Hardware Trojan Prediction (HTPRED) Dataset. 
+Official Research Page for Hardware Trojan Prediction (HT-Pred) Dataset and HT Prediction Model.
 
 Welcome to the GitHub repository for the HT_PRED framework! This repository contains all the code and dataset necessary to implement and evaluate the HT_PRED dataset for Hardware Trojan (HT) detection.
 
